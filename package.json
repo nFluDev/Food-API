@@ -1,0 +1,25 @@
+{
+  "name": "food-api",
+  "version": "0.0.1-dev.0",
+  "description": "Food API for Chain Markets",
+  "homepage": "https://github.com/nFluDev/Food-API#readme",
+  "bugs": {
+    "url": "https://github.com/nFluDev/Food-API/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nFluDev/Food-API.git"
+  },
+  "license": "UNLICENSED",
+  "author": "nFlu",
+  "type": "commonjs",
+  "main": "src/api.js",
+  "scripts": {
+    "start": "node src/api.js",
+    "test": "nodemon src/api.js",
+    "sok": "scrapers/sok-scraper.js"
+  },
+  "dependencies": {
+    "puppeteer": "^24.16.1"
+  }
+}
