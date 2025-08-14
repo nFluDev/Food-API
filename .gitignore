@@ -1,5 +1,5 @@
 node_modules/
-scrapers/*/output/
+scrapers/sok/output/
 .vscode/
 .env
 .DS_Store
