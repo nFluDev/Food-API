@@ -1,0 +1,22 @@
+module.exports = {
+    url: 'https://www.sokmarket.com.tr',
+    selectors: {
+        categoryMenu: '[class*="CategoryList_categories"]',
+        productContainer: '[class*="PLPProductListing_PLPCardsWrapper"]',
+        productCard: '[class*="PLPProductListing_PLPCardParent"]',
+        productTitle: 'h2[class*="CProductCard-module_title"]',
+        productLink: 'a[href]',
+        productImage: '[class*="CProductCard-module_imageContainer"] img',
+        priceContainer: '[class*="CPriceBox-module_priceContainer"] [class*="CPriceBox-module_price"]',
+        discountedPriceContainer: '[class*="CPriceBox-module_discountedPriceContainer"]',
+        originalPrice: '[class*="CPriceBox-module_price"]',
+        discountedPrice: '[class*="CPriceBox-module_discountedPrice"]',
+        productDescriptionContainer: '[class*="ProductDescriptionTab_productInfo"]',
+        productDescriptionKey: '.ProductDescriptionTab_key__YyO1L',
+        productDescriptionValue: '.ProductDescriptionTab_value__ppb0d',
+        nutritionTab: 'button[class*="CTab-module_tabTitle"]',
+        nutritionTable: 'div[class*="CProductNutritionInfo"] table',
+        categoryBlacklist: ['hafta', '25-tl'],
+        stopCategoryAt: 'temiz',
+    },
+};

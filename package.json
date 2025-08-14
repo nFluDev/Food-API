@@ -17,7 +17,7 @@
   "scripts": {
     "start": "node src/api.js",
     "test": "nodemon src/api.js",
-    "sok": "node scrapers/sok/scraper.js"
+    "sok": "node scraper/scraper.js"
   },
   "dependencies": {
     "puppeteer": "^24.16.1"
