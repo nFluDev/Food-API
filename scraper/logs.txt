@@ -1,0 +1,22 @@
+[16.08-2025.23.06] /Users/nflu/Documents/code/Food-API/scraper/sok/data klasörü oluşturuluyor.
+[16.08-2025.23.06] Tarayıcı başlatılıyor...
+[16.08-2025.23.06] 
+--- Kategori linkleri çekiliyor ---
+[16.08-2025.23.06] ✅ 9 adet kategori linki çekildi:
+[16.08-2025.23.06] https://www.sokmarket.com.tr/yemeklik-malzemeler-c-1770
+[16.08-2025.23.06] https://www.sokmarket.com.tr/et-ve-tavuk-ve-sarkuteri-c-160
+[16.08-2025.23.06] https://www.sokmarket.com.tr/meyve-ve-sebze-c-20
+[16.08-2025.23.06] https://www.sokmarket.com.tr/sut-ve-sut-urunleri-c-460
+[16.08-2025.23.06] https://www.sokmarket.com.tr/kahvaltilik-c-890
+[16.08-2025.23.06] https://www.sokmarket.com.tr/atistirmaliklar-c-20376
+[16.08-2025.23.06] https://www.sokmarket.com.tr/icecek-c-20505
+[16.08-2025.23.06] https://www.sokmarket.com.tr/ekmek-ve-pastane-c-1250
+[16.08-2025.23.06] https://www.sokmarket.com.tr/dondurulmus-urunler-c-1550
+[16.08-2025.23.06] 
+--- Kategori linkleri işleniyor ---
+[16.08-2025.23.06] 
+--- yemeklik-malzemeler-c-1770 kategorisi için ürünler çekiliyor ---
+[16.08-2025.23.06] ➡️  Kategori sayfası yükleniyor: https://www.sokmarket.com.tr/yemeklik-malzemeler-c-1770
+[16.08-2025.23.06] Ürün listesi container'ı bekleniyor...
+[16.08-2025.23.06] Ürün listesi container'ı bulundu, kaydırma başlatılıyor...
+[16.08-2025.23.06] Yeni ürünler yüklendi. Toplam: 40 ürün.[16.08-2025.23.06] Yeni ürünler yüklendi. Toplam: 60 ürün.[16.08-2025.23.06] Yeni ürünler yüklendi. Toplam: 80 ürün.[16.08-2025.23.06] Yeni ürünler yüklendi. Toplam: 100 ürün.[16.08-2025.23.06] Yeni ürünler yüklendi. Toplam: 120 ürün.[16.08-2025.23.06] Yeni ürünler yüklendi. Toplam: 140 ürün.[16.08-2025.23.06] Yeni ürünler yüklendi. Toplam: 160 ürün.[16.08-2025.23.06] Yeni ürünler yüklendi. Toplam: 180 ürün.[16.08-2025.23.06] Yeni ürünler yüklendi. Toplam: 200 ürün.

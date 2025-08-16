@@ -16,7 +16,7 @@ module.exports = {
         productDescriptionValue: '.ProductDescriptionTab_value__ppb0d',
         nutritionTab: 'button[class*="CTab-module_tabTitle"]',
         nutritionTable: 'div[class*="CProductNutritionInfo"] table',
-        categoryBlacklist: ['hafta', '25-tl'],
+        categoryBlacklist: ['okul','hafta', '25-tl'],
         stopCategoryAt: 'temiz',
     },
 };
